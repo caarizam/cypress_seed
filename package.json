@@ -1,0 +1,29 @@
+{
+  "name": "cypress_seed",
+  "version": "1.0.0",
+  "description": "Cypress IO seed with typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caarizam/cypress_seed.git"
+  },
+  "keywords": [
+    "cypress",
+    "cypress+typescript"
+  ],
+  "author": "Carlos Ariza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caarizam/cypress_seed/issues"
+  },
+  "homepage": "https://github.com/caarizam/cypress_seed#readme",
+  "dependencies": {
+    "cypress": "^11.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
