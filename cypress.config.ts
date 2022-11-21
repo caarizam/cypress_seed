@@ -6,7 +6,7 @@ export default defineConfig({
         experimentalSessionAndOrigin: true,
         defaultCommandTimeout: 10000,
         requestTimeout: 30000,
-        baseUrl: "https://urlbase.com",
+        baseUrl: "https://example.cypress.io",
         video: false,
 
         setupNodeEvents(on, config) {
